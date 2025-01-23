@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+ul{
+    color: brown;
+}
+.special{
+    border: 2px solid ; 
+    background-color: darkgray;
+}
+#style{
+    background-color: yellow;
+    font-size: medium;
+}
